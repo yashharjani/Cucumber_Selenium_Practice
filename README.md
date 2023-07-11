@@ -1,4 +1,5 @@
-This is the Cucumber & Selenium Practice directory. Learned and hand-on practice of RestAssured.
+This is the Cucumber & Selenium Practice directory. 
+Learned and hand-on practice of Cucumber & Selenium.
 
 This directory have following projects and concepts using Cucumber & Selenium with respective Feature and Step definition files:
 

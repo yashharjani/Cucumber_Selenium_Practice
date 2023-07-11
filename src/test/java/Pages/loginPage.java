@@ -7,6 +7,8 @@ public class loginPage {
 	
 	WebDriver driver;
 	
+//	Creating locators using By class
+	
 	private By username_login = By.id("name");
 	private By password_login = By.id("password");
 	private By btn_login = By.id("login");
@@ -18,6 +20,8 @@ public class loginPage {
 			throw new IllegalStateException("This is not Login page. The correct page is: "+driver.getCurrentUrl());
 		}
 	}
+	
+//	Creating action methods
 	
 	public void enterUsername(String username) {
 		driver.findElement(username_login).sendKeys(username);

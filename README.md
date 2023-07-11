@@ -7,3 +7,4 @@ This directory have following projects and concepts using Cucumber & Selenium wi
 - Google Search practice test. 
 - Implementation using POM (Page Object Model) design pattern.
 - Implementation using Page Factory class that supports Page Object design pattern.
+- Tags and Hooks.
